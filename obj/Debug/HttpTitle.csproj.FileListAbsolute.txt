@@ -1,0 +1,7 @@
+C:\Users\asdf\source\repos\MySharp\HttpTitle\bin\Debug\HttpTitle.exe
+C:\Users\asdf\source\repos\MySharp\HttpTitle\bin\Debug\HttpTitle.pdb
+C:\Users\asdf\source\repos\MySharp\HttpTitle\obj\Debug\HttpTitle.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\MySharp\HttpTitle\obj\Debug\HttpTitle.exe
+C:\Users\asdf\source\repos\MySharp\HttpTitle\obj\Debug\HttpTitle.pdb
+C:\Users\asdf\source\repos\MySharp\HttpTitle\bin\Debug\HttpTitle.exe.config
+C:\Users\asdf\source\repos\MySharp\HttpTitle\obj\Debug\HttpTitle.csprojAssemblyReference.cache
